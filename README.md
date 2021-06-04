@@ -1,4 +1,4 @@
-### Hi
+### Welcome
 
 I'm Sharon, 23 years old and living in the Netherlands. I'm currently studying CMD in Amsterdam. My passions in live are cats, coffee and loud music.
 
