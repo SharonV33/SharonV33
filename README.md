@@ -1,10 +1,13 @@
 ### Hi
 
-I'm Sharon, 23 years old and living in the Netherlands. I'm currently studying CMD in Amsterdam. 
+I'm Sharon, 23 years old and living in the Netherlands. I'm currently studying CMD in Amsterdam. My passions in live are cats, coffee and loud music.
+
+📫 Check out [My portfolio](https://portfolio-beige-pi.vercel.app/) or feel free to add me on [linkedin](https://www.linkedin.com/in/sharon-veldman-9a6a94147/)
+
 
 🔭 I’m currently working on project [FemAlert](https://github.com/veerleprins/FemAlert-meesterproef)
 
-Check out [My portfolio](https://portfolio-beige-pi.vercel.app/) or feel free to add me on [linkedin](https://www.linkedin.com/in/sharon-veldman-9a6a94147/)
+
 
 <!--
 **SharonV33/SharonV33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
