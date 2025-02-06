@@ -1,11 +1,10 @@
 ### Welcome
 
-I'm Sharon, 23 years old and living in the Netherlands. I'm currently studying CMD in Amsterdam. My passions in live are cats, coffee and loud music.
+I'm Sharon, 26 years old and living in the Netherlands. I work full time as a front-end developer. My passions in live are cats, coffee and loud music.
 
-📫 Check out [My portfolio](https://portfolio-beige-pi.vercel.app/) or feel free to add me on [linkedin](https://www.linkedin.com/in/sharon-veldman-9a6a94147/)
+📫 Check out my linkedin [linkedin](https://www.linkedin.com/in/sharon-veldman-9a6a94147/)
 
 
-🔭 I’m currently working on project [FemAlert](https://github.com/veerleprins/FemAlert-meesterproef)
 
 
 
